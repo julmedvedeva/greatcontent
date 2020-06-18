@@ -163,8 +163,7 @@ a {
   font-size: 26px;
 }
 .active-jobs {
-  margin-top: 20px;
-
+  margin: 20px 0;
 }
 .active-jobs__header {
   display: flex;
@@ -268,5 +267,9 @@ a {
 }
 .button__details--brows {
   background-color: transparent;
-  margin: 0 auto;
+  margin: 0 40% 20px;
+
+}
+.description__text {
+  padding-bottom: 15px;
 }
